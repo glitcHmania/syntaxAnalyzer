@@ -1,0 +1,22 @@
+"input0"
+varVariable0 -= 21 * 58
+
+if (5 < 19) then 21 + 29 else 2 + 1
+
+5 * 12
+48 / 16
+
+21 + 29
+19 - 5
+
+for (i = 0;i < 58;i + 1) then 58 + 7
+
+"INPUT1"
+
+8 ^ 80
+
+if (7 < 58) then 6 + 34
+
+m = 12
+while (m < 58) then m - 3
+myVariable1 += 16

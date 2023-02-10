@@ -1,0 +1,5 @@
+HOW TO RUN:
+	flex mpl.l
+	bison -dy mpl.y
+	gcc -o myprog y.tab.c lex.yy.c
+	./myprog < input.txt
